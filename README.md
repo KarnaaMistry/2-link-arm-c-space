@@ -9,7 +9,7 @@ Environment: initial and goal states for two-link arm robot with obstacles
   <img src="2link_cspace_env.jpg"/>
 </p>
 </br></br>
-Result: computed valid (white) configuration space of two link arm with a possible solution path (cyan)
+Result: computed valid (white) configuration space of two link arm with a possible solution path (drawn in cyan)
 </br></br>
 <p align="center">
   <img src="2link_cspace_result.jpg"/>
